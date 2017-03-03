@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SkyEngTest</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Электронная почта</string>
+    <string name="prompt_password">Пароль</string>
+    <string name="action_enter">Вход</string>
+    <string name="title_code">Ведите код</string>
+    <string name="action_get_code">Получить код для входа</string>
+    <string name="action_entrance">Войти</string>
+    <string name="action_entrance_without_pass">Войти без пароля</string>
+
+    <string name="title_enter_stream">Выполняется вход.Подождите...</string>
+</resources>
